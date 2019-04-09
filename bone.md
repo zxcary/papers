@@ -143,27 +143,28 @@ Osteoporosis is a common disease characterised by a systemic impairment of bone 
 1. [The Role of the Wnt-Signaling Antagonist DKK1 in the Development of Osteolytic Lesions in Multiple Myeloma](https://www.nejm.org/doi/full/10.1056/NEJMoa030847)\
 IF:79.258 \
 cite_number:1444 \
-**summary:** \
-* BACKGROUND
+**summary:** 
+* BACKGROUND \
 Myeloma cells may secrete factors that affect the function of osteoblasts, osteoclasts, or both.
-* METHODS
+* METHODS \
 We subjected purified plasma cells from the bone marrow of patients with newly diagnosed multiple myeloma and control subjects to oligonucleotide microarray profiling and biochemical and immunohistochemical analyses to identify molecular determinants of osteolytic lesions.
-* RESULTS
+* RESULTS \
 We studied 45 control subjects, 36 patients with multiple myeloma in whom focal lesions of bone could not be detected by magnetic resonance imaging (MRI), and 137 patients in whom MRI detected such lesions. Different patterns of expression of 57 of approximately 10,000 genes from purified myeloma cells could be used to distinguish the two groups of patients (P<0.001). Permutation analysis, which adjusts the significance level to account for multiple comparisons in the data sets, showed that 4 of these 57 genes were significantly overexpressed by plasma cells from patients with focal lesions. One of these genes, dickkopf 1 (DKK1), and its corresponding protein (DKK1) were studied in detail because DKK1 is a secreted factor that has been linked to the function of osteoblasts. Immunohistochemical analysis of bone marrow–biopsy specimens showed that only myeloma cells contained detectable DKK1. Elevated DKK1 levels in bone marrow plasma and peripheral blood from patients with multiple myeloma correlated with the gene-expression patterns of DKK1 and were associated with the presence of focal bone lesions. Recombinant human DKK1 or bone marrow serum containing an elevated level of DKK1 inhibited the differentiation of osteoblast precursor cells in vitro.
-* CONCLUSIONS
+* CONCLUSIONS \
 The production of DKK1, an inhibitor of osteoblast differentiation, by myeloma cells is associated with the presence of lytic bone lesions in patients with multiple myeloma.
 2. [High Bone Density Due to a Mutation in LDL-Receptor–Related Protein 5](https://www.nejm.org/doi/full/10.1056/nejmoa013444)\
 IF:79.258 \
-cite_number: 1617\
-* BACKGROUND 
+cite_number: 1617 \
+**summary:** 
+* BACKGROUND \
 Osteoporosis is a major public health problem of largely unknown cause. Loss-of-function mutations in the gene for low-density lipoprotein receptor–related protein 5 (LRP5), which acts in the Wnt signaling pathway, have been shown to cause osteoporosis–pseudoglioma.
 
-* METHODS 
+* METHODS \
 We performed genetic and biochemical analyses of a kindred with an autosomal dominant syndrome characterized by high bone density, a wide and deep mandible, and torus palatinus.
 
-* RESULTS
+* RESULTS \
 Genetic analysis revealed linkage of the syndrome to chromosome 11q12–13 (odds of linkage, >1 million to 1), an interval that contains LRP5. Affected members of the kindred had a mutation in this gene, with valine substituted for glycine at codon 171 (LRP5V171 ). This mutation segregated with the trait in the family and was absent in control subjects. The normal glycine lies in a so-called propeller motif that is highly conserved from fruit flies to humans. Markers of bone resorption were normal in the affected subjects, whereas markers of bone formation such as osteocalcin were markedly elevated. Levels of fibronectin, a known target of signaling by Wnt, a developmental protein, were also elevated. In vitro studies showed that the normal inhibition of Wnt signaling by another protein, Dickkopf-1 (Dkk-1), was defective in the presence of LRP5V171 and that this resulted in increased signaling due to unopposed Wnt activity.
 
-* CONCLUSIONS
+* CONCLUSIONS \
 The LRP5V171 mutation causes high bone density, with a thickened mandible and torus palatinus, by impairing the action of a normal antagonist of the Wnt pathway and thus increasing Wnt signaling. These findings demonstrate the role of altered LRP5 function in high bone mass and point to Dkk as a potential target for the prevention or treatment of osteoporosis.
 
