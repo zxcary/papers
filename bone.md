@@ -1,5 +1,4 @@
 # 骨质疏松相关文献
-* [Canonical Wnt Signaling in Differentiated Osteoblasts Controls Osteoclast Differentiation](https://www.sciencedirect.com/science/article/pii/S1534580705000973)
-摘要：
-summary：
+* [Canonical Wnt Signaling in Differentiated Osteoblasts Controls Osteoclast Differentiation](https://www.sciencedirect.com/science/article/pii/S1534580705000973)\
+summary：\
 Inactivation of β-catenin in mesenchymal progenitors prevents osteoblast differentiation; inactivation of Lrp5, a gene encoding a likely Wnt coreceptor, results in low bone mass (osteopenia) by decreasing bone formation. These observations indicate that Wnt signaling controls osteoblast differentiation and suggest that it may regulate bone formation in differentiated osteoblasts. Here, we study later events and find that stabilization of β-catenin in differentiated osteoblasts results in high bone mass, while its deletion from differentiated osteoblasts leads to osteopenia. Surprisingly, histological analysis showed that these mutations primarily affect bone resorption rather than bone formation. Cellular and molecular studies showed that β-catenin together with TCF proteins regulates osteoblast expression of Osteoprotegerin, a major inhibitor of osteoclast differentiation. These findings demonstrate that β-catenin, and presumably Wnt signaling, promote the ability of differentiated osteoblasts to inhibit osteoclast differentiation; thus, they broaden our knowledge of the functions Wnt proteins have at various stages of skeletogenesis.
