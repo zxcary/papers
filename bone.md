@@ -40,9 +40,9 @@ Highlights
 **summary:**\
 pNO40/PS1D, a novel nucleolar protein, has been characterized as a core protein of eukaryotic 60S ribosome and at least two splicing forms of pNO40 mRNAs with alternative starting sites have been identified. Through production of knockout (ko) mice with either exon 2 (△E2), exon 4 (△E4) or △E2+E4 targeted disruption we identified a cryptic splicing product occurring in the ko tissues examined which in general cannot be observed in regular RT-PCR detection of wild-type (wt) animals. Among ko animals, △E4 null embryos exhibited prominent senescence-associated β-galactosidase (SA-β-gal) staining, a marker for senescent cells, in notochord, forelimbs and heart while bone marrow-derived mesenchymal stem cells (MSCs) from △E4 null mice developed accelerated aging and osteogenic differentiation defects compared to those from wt and other isoform mutant mice. Examination of the causal relationship between pNO40 deficiency and MSC-accelerated aging revealed △E4 null disruption in MSCs elicits high levels of ROS and elevated expression levels of p16 and Rb but not p53. Further analysis with iTraq identified CYP1B1, a component of the cytochrome p450 system, as a potential molecule mediating ROS generation in pNO40 deficient MSCs. We herein established a mouse model of MSC aging through pNO40-targeted depletion and demonstrated the effects of loss of pNO40 on bone homeostasis.
 ## CKIP1 + Wnt
-1. [The role of CKIP-1 in osteoporosis development and treatment](https://online.boneandjoint.org.uk/doi/full/10.1302/2046-3758.72.BJR-2017-0172.R1)
-IF:2.362
-cite_number:4
+1. [The role of CKIP-1 in osteoporosis development and treatment](https://online.boneandjoint.org.uk/doi/full/10.1302/2046-3758.72.BJR-2017-0172.R1) \
+IF:2.362 \
+cite_number:4 
 * Article focus
 An overview of the role of CKIP-1 in osteogensis and osteoclastogenesis and its relationship with osteoporosis.\
 Reveal the possible treatment of osteoporosis through manipulating the biological function of CKIP-1.
