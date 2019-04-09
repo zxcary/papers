@@ -46,14 +46,14 @@ The purpose of this study was to evaluate gene expressions of human mesenchymal 
 1. [The role of CKIP-1 in osteoporosis development and treatment](https://online.boneandjoint.org.uk/doi/full/10.1302/2046-3758.72.BJR-2017-0172.R1) \
 IF:2.362 \
 cite_number:4 
-* Article focus
+* Article focus\
 An overview of the role of CKIP-1 in osteogensis and osteoclastogenesis and its relationship with osteoporosis.\
 Reveal the possible treatment of osteoporosis through manipulating the biological function of CKIP-1.
-* Key messages
+* Key messages\
 The structure and function of casein kinase 2-interacting protein-1 (CKIP-1).\
 CKIP-1 negatively regulates bone formation through bone morphogenetic protein pathway.\
 Progress in research on the role of CKIP-1 in osteoporosis treatment.
-* Strengths and limitations
+* Strengths and limitations\
 This review summarizes the mechanism of action of CKIP-1 in the pathogenesis of OP and predicts CKIP-1 siRNA therapy may be a novel treatment option for OP. \
 Whether CKIP-1 can interact with other signaling molecules to regulate the BMP pathway or regulate bone metabolism via other pathways remains unconfirmed. \
 The osteoblast-targeted treatment using CKIP-1 siRNA has only been tested in animals and similar drugs have not yet been developed for human application. \
@@ -63,4 +63,9 @@ Osteoporosis is a systemic skeletal disorder characterized by reduced bone mass 
 IF:3.427\
 cite_number:6\
 **summary:** \
+Casein kinase 2-interacting protein 1 (CKIP-1) is a negative regulator for bone formation. CKIP-1 knockout (KO) mice are very important for research on countermeasures to bone loss induced by space microgravity. Under simulated microgravity, the bone metabolism of CKIP-1 KO mice was different than that of wild-type (WT) mice. Many experiments all showed that the KO mice had significantly enhanced ossification in the tail suspension conditions, and the differences were closely related to the time the mice were exposed to the microgravity environment. Our results reveal the effect of CKIP-1 on the regulation of bone metabolism and osteogenesis in vivo and the ability of this gene to offset osteoporosis, and they suggest an approach to the treatment of osteoporosis induced by microgravity in space.
+3. [CKIP-1 silencing promotes new bone formation in rat mandibular distraction osteogenesis](https://www.sciencedirect.com/science/article/pii/S2212440316302668)\
+IF:1.718\
+cite_number:6\
+**summary**\
 Casein kinase 2-interacting protein 1 (CKIP-1) is a negative regulator for bone formation. CKIP-1 knockout (KO) mice are very important for research on countermeasures to bone loss induced by space microgravity. Under simulated microgravity, the bone metabolism of CKIP-1 KO mice was different than that of wild-type (WT) mice. Many experiments all showed that the KO mice had significantly enhanced ossification in the tail suspension conditions, and the differences were closely related to the time the mice were exposed to the microgravity environment. Our results reveal the effect of CKIP-1 on the regulation of bone metabolism and osteogenesis in vivo and the ability of this gene to offset osteoporosis, and they suggest an approach to the treatment of osteoporosis induced by microgravity in space.
