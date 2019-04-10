@@ -168,3 +168,9 @@ Genetic analysis revealed linkage of the syndrome to chromosome 11q12–13 (odds
 * CONCLUSIONS \
 The LRP5V171 mutation causes high bone density, with a thickened mandible and torus palatinus, by impairing the action of a normal antagonist of the Wnt pathway and thus increasing Wnt signaling. These findings demonstrate the role of altered LRP5 function in high bone mass and point to Dkk as a potential target for the prevention or treatment of osteoporosis.
 
+4. [The Wnt/beta-catenin pathway regulates cardiac valve formation.]()
+
+ut
+**summary:** \
+Truncation of the tumour suppressor adenomatous polyposis coli (Apc) constitutively activates the Wnt/beta-catenin signalling pathway. Apc has a role in development: for example, embryos of mice with truncated Apc do not complete gastrulation. To understand this role more fully, we examined the effect of truncated Apc on zebrafish development. Here we show that, in contrast to mice, zebrafish do complete gastrulation. However, mutant hearts fail to loop and form excessive endocardial cushions. Conversely, overexpression of Apc or Dickkopf 1 (Dkk1), a secreted Wnt inhibitor, blocks cushion formation. In wild-type hearts, nuclear beta-catenin, the hallmark of activated canonical Wnt signalling, accumulates only in valve-forming cells, where it can activate a Tcf reporter. In mutant hearts, all cells display nuclear beta-catenin and Tcf reporter activity, while valve markers are markedly upregulated. Concomitantly, proliferation and epithelial-mesenchymal transition, normally restricted to endocardial cushions, occur throughout the endocardium. Our findings identify a novel role for Wnt/beta-catenin signalling in determining endocardial cell fate.
+
