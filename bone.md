@@ -2,18 +2,18 @@
 *scihub下载网址：[https://gfsoso.99lb.net/](https://gfsoso.99lb.net/)复制文章链接粘贴到scihub搜索框即可下载*
 
 ## 关键词
-* 疾病：骨质疏松 osteoporosis \
-* 通路：Wnt通路 \
-* 细胞：成骨细胞 osteoblasts ; 骨髓间充质干细胞 mesenchymal stem cells \
+* 疾病：骨质疏松 osteoporosis 
+* 通路：Wnt通路 
+* 细胞：成骨细胞 osteoblasts ; 骨髓间充质干细胞 mesenchymal stem cells 
 * **分子：DKK1 ; CRIP1**
 
 ## 检索思路
-一一组合：6种
-两两组合：15种
-三三组合：20种
-四四组合：15种
-五五组合：6种
-六六组合：1种
+一一组合：6种 \ 
+两两组合：15种 \
+三三组合：20种 \
+四四组合：15种 \
+五五组合：6种 \
+六六组合：1种 
 
 ## Wnt + osteoblasts
 1. [Canonical Wnt Signaling in Differentiated Osteoblasts Controls Osteoclast Differentiation](https://www.sciencedirect.com/science/article/pii/S1534580705000973)\
