@@ -1,1 +1,1 @@
-# This is a folder for paper supplementary materials
+# This is a folder to store the supplementary materials of the papers.
